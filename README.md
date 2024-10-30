@@ -36,11 +36,11 @@ II. -Log in using the username and password you created when signing up. \*Downl
 ![](vpn2.JPG)
 
 
-![](vpn3.JPG)
+![](vpn4.JPG)
 
 III. -Launch application and Connect to a VPN Server
 
-![](vpn4.JPG)
+![](vpn5.JPG)
 
 \*Within the app, browse the list of available server locations.
 
@@ -50,7 +50,7 @@ Select one based on your needs (e.g., closer for speed, or a specific country fo
 
 IV. -Verify Your VPN Connection and Check Connection Status
 
-![](vpn5.JPG)
+![](vpn6.JPG)
 
 \*Look for a message/connection meter indicating that you are connected, most VPN apps display some form of “Connected” status, often with the server location shown.
 
@@ -61,7 +61,6 @@ I. -Open your web browser and visit https://whatismyipaddress.com/
 *\*Note your IP address displayed on the site. It should match the location of the VPN server you connected to.*
 
 ![](vpn7.JPG)
-![](vpn6.JPG)
 
 <h2>Diconnect</h2>
 
